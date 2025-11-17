@@ -24,7 +24,7 @@ Hi! I'm Saad, a Data Analyst with solid knowledge in data cleaning, analysis, an
   </span>
 
   <span style="display:inline-block; margin: 0 6px;">
-    <a href="https://www.linkedin.com/in/saadshalaby">
+    <a href="www.linkedin.com/in/saad-shalaby-x01">
       <img 
         src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" 
         height="35" width="150"
