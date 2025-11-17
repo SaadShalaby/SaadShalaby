@@ -4,7 +4,7 @@ Hi! I'm Saad, a Data Analyst with solid knowledge in data cleaning, analysis, an
 
 ## 🌐 Socials:
 <p align="center">
-  <a href="https://facebook.com/saadshalaby">
+  <a href=https://www.facebook.com/saad.shalaby.757942?mibextid>
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
 
@@ -12,7 +12,7 @@ Hi! I'm Saad, a Data Analyst with solid knowledge in data cleaning, analysis, an
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 
-  <a href="https://www.linkedin.com/in/saadshalaby">
+  <a href="www.linkedin.com/in/saad-shalaby-x01">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
