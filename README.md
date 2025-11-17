@@ -4,35 +4,19 @@ Hi! I'm Saad, a Data Analyst with solid knowledge in data cleaning, analysis, an
 
 ## 🌐 Socials:
 <p align="center">
+  <a href="https://facebook.com/saadshalaby">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
 
-  <span style="display:inline-block; margin: 0 6px;">
-    <a href="https://facebook.com/saadshalaby">
-      <img 
-        src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" 
-        height="45" width="150"
-      />
-    </a>
-  </span>
+  <a href="https://instagram.com/saadshalaby_1">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 
-  <span style="display:inline-block; margin: 0 6px;">
-    <a href="https://instagram.com/saadshalaby_1">
-      <img 
-        src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" 
-        height="45" width="150"
-      />
-    </a>
-  </span>
-
-  <span style="display:inline-block; margin: 0 6px;">
-    <a href="www.linkedin.com/in/saad-shalaby-x01">
-      <img 
-        src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" 
-        height="35" width="150"
-      />
-    </a>
-  </span>
-
+  <a href="https://www.linkedin.com/in/saadshalaby">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
+
 
 
 
