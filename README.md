@@ -1,6 +1,11 @@
 # 💫 About Me:
-I'm Saad, a Data Analyst skilled in Excel, SQL, Power BI, and Python, focused on turning raw data into clear, actionable insights.  
-I create dashboards, automated analytics, and reliable reports that support smarter decisions and drive business performance.
+🎓 Information Technology Student with a strong interest in Data Analysis & Artificial Intelligence
+📊 Skilled in Excel, Power Query, Power Pivot, and Data Cleaning
+🐍 Working with Python & SQL for data processing 
+🛠️ Focused on building real-world projects & ETL pipelines
+📈 Passionate about turning data into insights and smart decisions
+🌱 Always learning, every day is a new opportunity
+❤️ Exploring AI, Data Engineering & Open Source
 
 
 
