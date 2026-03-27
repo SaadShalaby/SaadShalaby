@@ -7,8 +7,11 @@
 - 📈 Passionate about turning data into insights and smart decisions  
 - 🌱 Always learning, every day is a new opportunity  
 - ❤️ Exploring AI, Data Engineering & Open Source
+  
 
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=00FF99&center=true&vCenter=true&width=600&lines=Always+Learning+New+Things;Data+Analyst;Turning+Data+into+Insights" />
+</p>
 
 
 ## 🌐 Socials:
