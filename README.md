@@ -85,3 +85,7 @@
 [![](https://visitcount.itsvg.in/api?id=SaadShalaby&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ahmed1707hamed-tech/ahmed1707hamed-tech/output/github-contribution-grid-snake-dark.svg" />
+</p>
