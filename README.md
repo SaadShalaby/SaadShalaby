@@ -48,15 +48,16 @@
 
 # 💻 Tech Stack:
 
+
+
 ## 👨‍💻 Programming & Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-025E8C?style=for-the-badge&logo=database&logoColor=white)
 
 ## 📊 Data Analysis & Libraries
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-white?style=for-the-badge&logo=python&logoColor=black)
 ![Seaborn](https://img.shields.io/badge/seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
@@ -65,15 +66,21 @@
 ![Tableau](https://img.shields.io/badge/tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
 ## 🗄️ Databases
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/sql_server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
 ## ⚙️ Tools & Technologies
 ![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-121011?style=for-the-badge&logo=github&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![ETL](https://img.shields.io/badge/ETL-Pipeline-blue?style=for-the-badge)
-![Data Cleaning](https://img.shields.io/badge/Data-Cleaning-green?style=for-the-badge)
+![Excel](https://img.shields.io/badge/excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+# 🛠️ Skills:
+
+![ETL](https://img.shields.io/badge/ETL-Pipeline-4B4B4B?style=for-the-badge)
+![Data Cleaning](https://img.shields.io/badge/Data-Cleaning-0A66C2?style=for-the-badge)
+![EDA](https://img.shields.io/badge/EDA-Exploratory%20Analysis-6A5ACD?style=for-the-badge)
+![Data Visualization](https://img.shields.io/badge/Data-Visualization-F2C811?style=for-the-badge)
 
 
 # 📊 GitHub Stats:
