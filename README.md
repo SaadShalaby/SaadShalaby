@@ -90,6 +90,25 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
+
+
+<h2 align="center">🛠️ Top Technical Skills & Tools</h2>
+
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,git,github,vscode,mysql,sklearn&perline=7" />
+</p>
+
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/ahmed1707hamed-tech/ahmed1707hamed-tech/output/github-contribution-grid-snake-dark.svg" />
 </p>
+
+
+
+
+
+
+
+
+
