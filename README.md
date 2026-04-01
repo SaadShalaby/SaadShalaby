@@ -83,10 +83,7 @@
 ![Data Visualization](https://img.shields.io/badge/Data-Visualization-F2C811?style=for-the-badge)
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SaadShalaby&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=SaadShalaby&theme=shadow_blue&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SaadShalaby&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=SaadShalaby&icon=0&color=0)](https://visitcount.itsvg.in)
